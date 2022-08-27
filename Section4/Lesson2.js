@@ -4,3 +4,5 @@ if (command === 'add') {
 } else if (command === 'remove') {
     console.log('Removing note!')
 }
+
+aset
